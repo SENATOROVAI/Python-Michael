@@ -1,0 +1,41 @@
+﻿Python (получить сертификат):
+1)https://karpov.courses/pythonzero 
+2)https://stepik.org/course/63085/promo
+3)https://www.kaggle.com/learn/intro-to-programming
+
+Алгоритмы (выполнить):
+1)https://codeforces.com/problemset/problem/4/A
+2)https://projecteuler.net/problem=1
+3)https://leetcode.com/problems/palindrome-number/
+
+git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
+
+Алгоритмы:
+1)скачать
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
+
+Math:
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) https://t.me/SenatorovBootcamp/888/476 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) 
+3) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
+4) https://lab.karpov.courses/learning/253/module/2697/ (секция линал), ознакомиться
+                                                                        
+дискретка (математика для прогеров, скачать):
+1)https://t.me/ruslansenatorov/43
+
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
+
+System design (это на перспективу):
+1) https://zlib.pub/book/-7p8mhg8mcl70
+
+Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+
+
+
+
