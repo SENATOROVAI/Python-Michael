@@ -7,7 +7,7 @@ person = 0
 # latte = 180 milk + expresso
 # cap = 100 milk
 # americano = expresso + water
-while ostatok_milk >= 0 or ostatok_coffee >= 0:
+while ostatok_milk >= 0 or ostatok_coffee >= 0:  #что значит while и что она делает?
     person += 1 
     if person % 3 == 0 and person % 5 == 0: #cap
         if ostatok_milk < 100:
