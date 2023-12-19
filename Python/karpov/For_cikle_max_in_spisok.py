@@ -1,4 +1,4 @@
-# ссылка на задачу
+# ссылка на задачу https://lab.karpov.courses/learning/243/module/2453/lesson/23855/68546/331884/
 nums = [9, 9, 99, -23]
 nums.sort()
 min_diff = float("inf")
