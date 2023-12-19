@@ -1,5 +1,4 @@
-# ссылка на задачу https://lab.karpov.courses/learning/243/module/2453/lesson/23855/68546/331884/
-nums = [9, 9, 99, -23]
+nums = [1, 2, 3, 4]
 nums.sort()
 min_diff = float("inf")
 min_diff1 = float("-inf")
@@ -7,9 +6,11 @@ d = len(nums)
 a = 0
 for j in nums:
     for i in nums:
-        if nums.index(j) != nums.index(i):
+        if j != i:
             z = abs(j - i)
-
+        elif nums.count(i) >= 2:
+            result = [i, i]
+            break
         else:
             continue
         if z <= min_diff:
