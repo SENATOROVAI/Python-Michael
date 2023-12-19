@@ -1,3 +1,4 @@
+# ссылка на задачу
 nums = [9, 9, 99, -23]
 nums.sort()
 min_diff = float("inf")
