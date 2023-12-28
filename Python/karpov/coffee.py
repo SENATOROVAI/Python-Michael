@@ -22,7 +22,6 @@ while True:
     elif visitors % 5 == 0 and visitors % 3 == 0:
         if milk >= 100 and coffee >= 7:
             milk -= 100
-            coffee >= 7
         else:
             break
     else:

@@ -1,5 +1,5 @@
 ﻿Python (получить сертификат):
-1)https://karpov.courses/pythonzero 
+1)https://karpov.courses/pythonzero +-
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
 
@@ -9,9 +9,9 @@
 3)https://leetcode.com/problems/palindrome-number/
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team  done!       
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI +-  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme done!
 4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
 
 Алгоритмы:
