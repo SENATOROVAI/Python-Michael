@@ -34,8 +34,6 @@ Computer Science:
 System design (это на перспективу):
 1) https://zlib.pub/book/-7p8mhg8mcl70
 
-Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
-
-
-
-
+01/01
+1)выполнить Math\calculus\hw\01.01\
+результат сохранить в limit1.pdf
