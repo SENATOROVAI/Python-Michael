@@ -1,0 +1,25 @@
+city_map_list = [
+    [1, 1, 0, 0, 1],
+    [1, 1, 0, 0, 1],
+    [1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 1],
+    [0, 0, 0, 0, 1],
+]
+courier_location = (2, 2)  # стартовая позиция курьера
+courier_location = list(courier_location)
+orders_location = [(4, 0)]  # координаты для доставки трех товаров
+for i in orders_location:
+    while courier_location[0] != i[0]:
+        if courier_location[0] < i[0]:
+            courier_location[0] += 1
+            print(courier_location)
+        elif courier_location[0] > i[0]:
+            courier_location[0] -= 1
+            print(courier_location)
+    while courier_location[1] != i[1]:
+        if courier_location[1] < i[1]:
+            courier_location[1] += 1
+            print(courier_location)
+        elif courier_location[1] > i[1]:
+            courier_location[1] -= 1
+            print(courier_location)
