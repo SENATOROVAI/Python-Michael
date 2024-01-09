@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">Data and Computer scientists</h3>
+<h2 align="center">Data and Computer scientists</h2>
 
 ###
 
-<h6 align="center">I want be will Data and Computer scientists. I want to move forward in this field and then do cool and interesting projects. I am 25 years old, I am finishing the MAI. I know physics and mathematics. Sociable, friendly and kind. My dream is to work in IT</h6>
+<h3 align="center">I want be will Data and Computer scientists. I want to move forward in this field and then do cool and interesting projects. I am 25 years old, I am finishing the MAI. I know physics and mathematics. Sociable, friendly and kind. My dream is to work in IT</h3>
 
 ###
 
@@ -41,8 +41,5 @@
 <h2 align="left">I have certificates</h2>
 
 ###
-
-<div style="text-align:center">Python Certificates</div>
-
-![Python Certificate](Certificate Python_Karpov_EN_1.png)
-
+![Screenshot](Certificate_Python_Karpov_EN_1.png)
+![Screenshot](Certificate_Python_Karpov_EN_2.png)
