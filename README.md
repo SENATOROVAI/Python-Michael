@@ -42,5 +42,5 @@
 
 ###
 
-
+![Python Certificate](Certificate Python_Karpov_EN_1.png)
 
