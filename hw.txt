@@ -37,3 +37,9 @@ System design (это на перспективу):
 01/01
 1)выполнить Math\calculus\hw\01.01\
 результат сохранить в limit1.pdf
+
+01/05
+1) скачать https://t.me/SenatorovBootcamp/888/11888 и выполнить 5.231 - 5.245
+результат сохранить в \Math\calculus\hw\03.01\limit1.pdf
+2)вы полнить Math\calculus\hw\05.01
+результат сохранить в \Math\calculus\hw\05.01\limit1.pdf
