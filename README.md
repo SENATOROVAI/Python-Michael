@@ -42,4 +42,4 @@
 
 ###
 ![Screenshot](Certificate_Python_Karpov_EN_1.png)
-![Screenshot](Certificate_Python_Karpov_EN_2.png)
+
