@@ -42,5 +42,7 @@
 
 ###
 
+<div style="text-align:center">Python Certificates</div>
+
 ![Python Certificate](Certificate Python_Karpov_EN_1.png)
 
