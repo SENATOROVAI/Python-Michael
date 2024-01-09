@@ -1,5 +1,5 @@
 ﻿Python (получить сертификат):
-1)https://karpov.courses/pythonzero +-
+1)https://karpov.courses/pythonzero Done!
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
 
