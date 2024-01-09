@@ -2,33 +2,37 @@ from collections import deque
 
 
 def find_new_neighbors(coordinate):
-    '''
+    """
     :param coordinate: tupple = (int, int)
     :return: None
     :side effects: modify added_cells, queue and parents
-    '''
+    """
     for j, k in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
         x, y = coordinate[0] + j, coordinate[1] + k
-        if (0 <= x < size and 0 <= y < size and
-                (x, y) not in added_cells and
-                city_map_list[x][y] == 1):
+        if (
+            0 <= x < size
+            and 0 <= y < size
+            and (x, y) not in added_cells
+            and city_map_list[x][y] == 1
+        ):
             added_cells.add((x, y))
             queue.append((x, y))
             parents[(x, y)] = coordinate
 
 
 def write_path(end, start):
-    '''
+    """
     :param end: tupple = (int, int)
     :param start: tupple = (int, int)
     :return: None
     :side effects: modify variable - path
-    '''
+    """
     x, y = end
     next_cell = parents.get((x, y))
     while next_cell != start:
         path.append(next_cell)
         next_cell = parents.get(next_cell)
+
 
 # в постановке задачи сперва задаются столбики, потом строки,
 # переставим по-питонячи: сперва строки, потом столбики
