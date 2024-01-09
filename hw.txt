@@ -5,8 +5,8 @@
 
 Алгоритмы (выполнить):
 1)https://codeforces.com/problemset/problem/4/A Done!
-2)https://projecteuler.net/problem=1
-3)https://leetcode.com/problems/palindrome-number/
+2)https://projecteuler.net/problem=1 Done!
+3)https://leetcode.com/problems/palindrome-number/ - ???
 
 git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team  Done!      
