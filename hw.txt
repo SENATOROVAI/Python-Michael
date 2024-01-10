@@ -16,7 +16,7 @@ git:
 
 Алгоритмы:
 1)скачать
-https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63 Done!
 
 Math:
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
@@ -29,13 +29,13 @@ Math:
 
 Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
 
 System design (это на перспективу):
 1) https://zlib.pub/book/-7p8mhg8mcl70
 
 01/01
-1)выполнить Math\calculus\hw\01.01\
+1)выполнить Math\calculus\hw\01.01\ Done!
 результат сохранить в limit1.pdf
 
 01/05
