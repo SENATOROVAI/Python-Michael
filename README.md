@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">I want be will Data and Computer scientists. I want to move forward in this field and then do cool and interesting projects. I am 25 years old, I am finishing the MAI. I know physics and mathematics. Sociable, friendly and kind. My dream is to work in IT</h3>
+<h3 align="center">I want to become a Data and Computer scientists. I want to move forward in this field and then do cool and interesting projects. I am 25 years old, I am finishing the MAI. I know physics and mathematics. Sociable, friendly and kind. My dream is to work in IT</h3>
 
 ###
 
