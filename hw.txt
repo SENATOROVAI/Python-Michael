@@ -43,3 +43,9 @@ System design (это на перспективу):
 результат сохранить в \Math\calculus\hw\03.01\limit1.pdf
 2)вы полнить Math\calculus\hw\05.01
 результат сохранить в \Math\calculus\hw\05.01\limit1.pdf
+
+1 задача в день: 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+отсюда копируешь 3 решения https://codeforces.com/problemset/status/4/problem/A  и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+
