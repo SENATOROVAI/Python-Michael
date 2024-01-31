@@ -1,57 +1,48 @@
 ﻿Python (получить сертификат):
-1)https://karpov.courses/pythonzero Done!
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
-
+==================================
 Алгоритмы (выполнить):
 1)https://codeforces.com/problemset/problem/4/A Done!
-2)https://projecteuler.net/problem=1 Done!
-3)https://leetcode.com/problems/palindrome-number/ - ???
-
-git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team  Done!      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI Done!  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme Done!
-4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
-
-Алгоритмы:
-1)скачать
-https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63 Done!
-
-Math:
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) https://t.me/SenatorovBootcamp/888/476 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) 
-3) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
-4) https://lab.karpov.courses/learning/253/module/2697/ (секция линал), ознакомиться
-                                                                        
-дискретка (математика для прогеров, скачать):
-1)https://t.me/ruslansenatorov/43
-
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
-
-System design (это на перспективу):
-1) https://zlib.pub/book/-7p8mhg8mcl70
-
-01/01
-1)выполнить Math\calculus\hw\01.01\ Done!
-результат сохранить в limit1.pdf
-
-01/05
-1) скачать https://t.me/SenatorovBootcamp/888/11888 и выполнить 5.231 - 5.245
-результат сохранить в \Math\calculus\hw\03.01\limit1.pdf
-2)вы полнить Math\calculus\hw\05.01
-результат сохранить в \Math\calculus\hw\05.01\limit1.pdf
+2)https://leetcode.com/problems/palindrome-number/ - ПОКАЖУ НА УРОКЕ
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
 
 1 задача в день: 
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
 отсюда копируешь 3 решения https://codeforces.com/problemset/status/4/problem/A  и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
 и так дальше по другим задачам.
+==================================
+Math:
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
 
-SQL:
-1)https://karpov.courses/simulator-sql
+02/01
+1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
+2) теория, линейная алгебра http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf
+3) практика векторная алгебра(numpy) https://stepik.org/course/172781/syllabus
+4) практика векторная алгебра(numpy) https://stepik.org/course/4940/promo
+5) карпов https://lab.karpov.courses/learning/253/module/2697/
+6) форкнуть и проработать каждую строку https://www.kaggle.com/code/sokolovaleks/100-numpy-exercises-rus-version
+7) практика векторная алгебра (EN) https://stepik.org/course/79/syllabus
+
+ютуб:
+1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
+1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
+==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
 
 
+выполненные задания переносим в Архив
+
+==================================
+==================================
+Архив:
+
+Python:
+1)https://karpov.courses/pythonzero
 
 
