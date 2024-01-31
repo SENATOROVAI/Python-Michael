@@ -49,3 +49,9 @@ https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
 отсюда копируешь 3 решения https://codeforces.com/problemset/status/4/problem/A  и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
 и так дальше по другим задачам.
 
+SQL:
+1)https://karpov.courses/simulator-sql
+
+
+
+
