@@ -1,4 +1,21 @@
-﻿Python (получить сертификат):
+﻿Math:
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
+
+02/01
+1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
+2) теория, линейная алгебра http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf
+3) практика векторная алгебра(numpy) https://stepik.org/course/172781/syllabus
+4) практика векторная алгебра(numpy) https://stepik.org/course/4940/promo
+5) карпов https://lab.karpov.courses/learning/253/module/2697/
+6) форкнуть и проработать каждую строку https://www.kaggle.com/code/sokolovaleks/100-numpy-exercises-rus-version
+7) практика векторная алгебра (EN) https://stepik.org/course/79/syllabus
+
+ютуб:
+1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
+1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
+==================================
+Python (получить сертификат):
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
 ==================================
@@ -18,23 +35,6 @@ https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
  
 и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
 и так дальше по другим задачам.
-==================================
-Math:
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
-
-02/01
-1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
-2) теория, линейная алгебра http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf
-3) практика векторная алгебра(numpy) https://stepik.org/course/172781/syllabus
-4) практика векторная алгебра(numpy) https://stepik.org/course/4940/promo
-5) карпов https://lab.karpov.courses/learning/253/module/2697/
-6) форкнуть и проработать каждую строку https://www.kaggle.com/code/sokolovaleks/100-numpy-exercises-rus-version
-7) практика векторная алгебра (EN) https://stepik.org/course/79/syllabus
-
-ютуб:
-1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
-1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
 ==================================
                                                                         
 Computer Science:
@@ -56,3 +56,4 @@ Git:
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
+
