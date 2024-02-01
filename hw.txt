@@ -4,11 +4,8 @@ Math:
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
 =================================
 linal:
-1) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
-
-02/01
 1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
-1.1) теория для чайников векторная алгебра https://mathter.pro/angem/index.html
+1.1) теория для чайников векторная алгебра https://mathter.pro/angem/index.html сделать до 1.10.3 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
 2) теория, линейная алгебра http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf
 2.1) теория для чайников линейная алгебра https://mathter.pro/algebra/index.html
 3) практика векторная алгебра(numpy) https://stepik.org/course/172781/syllabus
