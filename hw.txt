@@ -1,6 +1,10 @@
-﻿Math:
+﻿выполненные задания переносим в Архив(внизу файла)
+
+Math:
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
+=================================
+linal:
+1) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
 
 02/01
 1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
@@ -15,6 +19,26 @@
 1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
 1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
 ==================================
+Calculus:
+1) https://www.lektorium.tv/matematicheskij-analiz 
+1.1) https://stepik.org/course/716/syllabus 
+1.2) https://stepik.org/course/711/syllabus
+1.1-1.2 - это альтернатива 1 пункту.
+2) https://lab.karpov.courses/learning/253/ секция матан 1
+
+1) выполнить\Math\calculus\01
+сохранить фото из тетради в \Math\calculus\01\limit.pdf
+
+сделай первые 3 примера в sympy https://t.me/c/1937296927/13078
+сохраняешь в \Math\calculus\01\sympy.ipynb
+
+2) скачать https://t.me/c/1937296927/888/11888 и выполнить 5.231 - 5.245
+результат сохранить в \Math\calculus\02\limit.pdf
+
+3) Math\calculus\hw\03
+результат сохранить в \Math\calculus\03\limit.pdf
+==================================
+
 Python (получить сертификат):
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
