@@ -8,7 +8,9 @@ linal:
 
 02/01
 1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
+1.1) теория для чайников векторная алгебра https://mathter.pro/angem/index.html
 2) теория, линейная алгебра http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf
+2.1) теория для чайников линейная алгебра https://mathter.pro/algebra/index.html
 3) практика векторная алгебра(numpy) https://stepik.org/course/172781/syllabus
 4) практика векторная алгебра(numpy) https://stepik.org/course/4940/promo
 5) карпов https://lab.karpov.courses/learning/253/module/2697/
@@ -20,6 +22,7 @@ linal:
 1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
 ==================================
 Calculus:
+Теория матан https://vk.com/doc297168001_651784102
 1) https://www.lektorium.tv/matematicheskij-analiz 
 1.1) https://stepik.org/course/716/syllabus 
 1.2) https://stepik.org/course/711/syllabus
