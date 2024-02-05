@@ -1,8 +1,46 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
-Math:
+Math(school):
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-=================================
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
+==================================
+Calculus:
+
+Теория(книга - для хардкорщиков): 
+https://vk.com/doc297168001_651784102
+
+Практика:
+1*) https://www.lektorium.tv/matematicheskij-analiz (прочитать весь "Список теоретических материалов"(под видео) и выписать в тетрадь все ПРИМЕРЫ И РЕШЕНИЯ), пройти ДО дифуров!
+конспект сохраняешь в \Math\calculus\lektorium\topic_name.pdf  topic_name - название темы
+
+При выполнении 1*) обязательно опираться на эти 2 плейлиста:
+Теория+практика видео: https://www.youtube.com/watch?v=zkTFyZVav-s&list=PLGtfmJuN1mTD2ND-zeBWHv3ACO5J0G9DR
+Теория+практика видео: https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr
+
+2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf 
+
+3) переписать все примеры отсюда \Math\calculus\theory\Пределы_решения
+Свой конспект сохранить в каждой папке limit.pdf
+
+УРА, РУКУ МЫ НАБИЛИ ПОРА ПРАКТИКОВАТЬСЯ:
+
+Итоговый контроль:
+1) скачать https://t.me/c/1937296927/888/11888 
+1.1 Изучить критерий Коши, на 28 странице(задачник)
+1.2 выполнить 5.231 - 5.245 в тетради, 
+1.3 конспект загрузить в \Math\calculus\5.231_5.245\limit.pdf
+1.4 так же сделай первые 3 примера из конспекта в sympy https://t.me/c/1937296927/13078
+сохраняешь в \Math\calculus\5.231_5.245\sympy.ipynb
+2) выполнить только чётные 5.272-5.286 
+конспект загрузить в \Math\calculus\5.272-5.286\limit.pdf
+3) Выполнить только чётные 5.288-5.333
+конспект загрузить в \Math\calculus\5.288-5.333\limit.pdf
+4) Начать читать 35стр непрерывность функции
+
+Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
+
+==================================
+
 linal:
 1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
 1.1) теория для чайников векторная алгебра https://mathter.pro/angem/index.html сделать до 1.10.3 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
@@ -17,26 +55,6 @@ linal:
 ютуб:
 1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
 1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
-==================================
-Calculus:
-Теория матан https://vk.com/doc297168001_651784102
-1) https://www.lektorium.tv/matematicheskij-analiz 
-1.1) https://stepik.org/course/716/syllabus 
-1.2) https://stepik.org/course/711/syllabus
-1.1-1.2 - это альтернатива 1 пункту.
-2) https://lab.karpov.courses/learning/253/ секция матан 1
-
-1) выполнить\Math\calculus\01
-сохранить фото из тетради в \Math\calculus\01\limit.pdf
-
-сделай первые 3 примера в sympy https://t.me/c/1937296927/13078
-сохраняешь в \Math\calculus\01\sympy.ipynb
-
-2) скачать https://t.me/c/1937296927/888/11888 и выполнить 5.231 - 5.245
-результат сохранить в \Math\calculus\02\limit.pdf
-
-3) Math\calculus\hw\03
-результат сохранить в \Math\calculus\03\limit.pdf
 ==================================
 
 Python (получить сертификат):
