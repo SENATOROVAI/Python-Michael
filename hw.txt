@@ -1,5 +1,60 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 
+
+Алгоритмы (выполнить):
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
+4) 
+теория ДП https://www.youtube.com/watch?v=GOF4VUi4nGU
+практика ДП https://leetcode.com/tag/dynamic-programming/ 1 задача в день
+5) https://leetcode.com/tag/math/ 1 задача в день
+6) 1 задача в день: 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+
+копируешь с каждой странице по 1 решению:
+первая страница https://codeforces.com/problemset/status/4/problem/A 
+середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
+последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
+ 
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+
+Бонус(по желанию):
+https://leetcode.com/tag/graph/
+==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+
+Pandas:
+1) https://www.freecodecamp.org/learn/data-analysis-with-python/
+2) 1 задача в день 
+https://leetcode.com/studyplan/introduction-to-pandas/ 
+3) когда закончишь начни 
+https://leetcode.com/studyplan/30-days-of-pandas/
+4) https://www.kaggle.com/learn/pandas
+
+SQL:
+1) https://karpov.courses/simulator-sql
+2) https://sql-academy.org/ru/trainer/tasks/1 (ТОПОВАЯ ШТУКА)
+3) https://stepik.org/course/63054/syllabus
+4) https://stepik.org/course/3203/syllabus
+5) https://www.kaggle.com/learn/intro-to-sql
+6) https://www.kaggle.com/learn/advanced-sql
+
+system design:
+скачать 
+https://library.samdu.uz/download/20642
+
+==================================
+==================================
+Архив:
+
 ==================================
 Calculus:
 
@@ -57,43 +112,11 @@ Python (получить сертификат):
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
 ==================================
-Алгоритмы (выполнить):
 
-2)https://leetcode.com/problems/palindrome-number/ - ПОКАЖУ НА УРОКЕ
-3)переписать в тетрадь
-https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
-
-1 задача в день: 
-https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
-
-копируешь с каждой странице по 1 решению:
-первая страница https://codeforces.com/problemset/status/4/problem/A 
-середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
-последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
- 
-и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
-и так дальше по другим задачам.
-==================================
-                                                                        
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-
-
-
-выполненные задания переносим в Архив
-
-==================================
-==================================
-Архив:
 
 Python:
 1)https://karpov.courses/pythonzero
 
-Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
-4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
 Math(school):
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
