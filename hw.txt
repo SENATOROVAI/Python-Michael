@@ -1,10 +1,5 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
-Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
-4)https://t.me/c/1937296927/3602/5714 
 
 Алгоритмы (выполнить):
 3)переписать в тетрадь
@@ -105,8 +100,16 @@ linal:
 Python (получить сертификат):
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
-==================================
 
+
+==================================
+АРХИВ
+
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714  
 
 Python:
 1)https://karpov.courses/pythonzero
