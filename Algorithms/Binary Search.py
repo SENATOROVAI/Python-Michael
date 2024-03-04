@@ -18,4 +18,3 @@ while left <= right:
         left = mid + 1
     else:
         print("Эдеменет не найден")
-
