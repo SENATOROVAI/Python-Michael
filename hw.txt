@@ -7,7 +7,7 @@
 
 3)переписать в тетрадь
 https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
-4) 
+4)
 теория ДП https://www.youtube.com/watch?v=GOF4VUi4nGU
 практика ДП https://leetcode.com/tag/dynamic-programming/ 1 задача в день
 5) https://leetcode.com/tag/math/ 1 задача в день
@@ -19,15 +19,15 @@ https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
 Бонус(по желанию):
 https://leetcode.com/tag/graph/
 ==================================
-                                                                        
+
 Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124
 
 Pandas:
 1) https://www.freecodecamp.org/learn/data-analysis-with-python/
-2) 1 задача в день 
-https://leetcode.com/studyplan/introduction-to-pandas/ 
-3) когда закончишь начни 
+2) 1 задача в день
+https://leetcode.com/studyplan/introduction-to-pandas/
+3) когда закончишь начни
 https://leetcode.com/studyplan/30-days-of-pandas/
 4) https://www.kaggle.com/learn/pandas
 
@@ -40,7 +40,7 @@ SQL:
 6) https://www.kaggle.com/learn/advanced-sql
 
 system design:
-скачать 
+скачать
 https://library.samdu.uz/download/20642
 
 ==================================
@@ -50,7 +50,7 @@ https://library.samdu.uz/download/20642
 ==================================
 Calculus:
 
-Теория(книга - для хардкорщиков): 
+Теория(книга - для хардкорщиков):
 https://vk.com/doc297168001_651784102
 
 Практика:
@@ -61,7 +61,7 @@ https://vk.com/doc297168001_651784102
 Теория+практика видео: https://www.youtube.com/watch?v=zkTFyZVav-s&list=PLGtfmJuN1mTD2ND-zeBWHv3ACO5J0G9DR
 Теория+практика видео: https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr
 
-2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf 
+2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf
 
 3) переписать все примеры отсюда \Math\calculus\theory\Пределы_решения
 Свой конспект сохранить в каждой папке limit.pdf
@@ -69,13 +69,13 @@ https://vk.com/doc297168001_651784102
 УРА, РУКУ МЫ НАБИЛИ ПОРА ПРАКТИКОВАТЬСЯ:
 
 Итоговый контроль:
-1) скачать https://t.me/c/1937296927/888/11888 
+1) скачать https://t.me/c/1937296927/888/11888
 1.1 Изучить критерий Коши, на 28 странице(задачник)
-1.2 выполнить 5.231 - 5.245 в тетради, 
+1.2 выполнить 5.231 - 5.245 в тетради,
 1.3 конспект загрузить в \Math\calculus\5.231_5.245\limit.pdf
 1.4 так же сделай первые 3 примера из конспекта в sympy https://t.me/c/1937296927/13078
 сохраняешь в \Math\calculus\5.231_5.245\sympy.ipynb
-2) выполнить только чётные 5.272-5.286 
+2) выполнить только чётные 5.272-5.286
 конспект загрузить в \Math\calculus\5.272-5.286\limit.pdf
 3) Выполнить только чётные 5.288-5.333
 конспект загрузить в \Math\calculus\5.288-5.333\limit.pdf
@@ -109,10 +109,10 @@ Python (получить сертификат):
 АРХИВ
 
 Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
-4)https://t.me/c/1937296927/3602/5714  
+4)https://t.me/c/1937296927/3602/5714
 
 Python:
 1)https://karpov.courses/pythonzero
